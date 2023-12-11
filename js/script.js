@@ -4,7 +4,8 @@ createApp({
 
     data(){
         return {
-            message : 'welcome to fortnite'
+            message : 'welcome to fortnite',
+            imageName : './img/blade.jpg'
         }
     }
 }).mount('#app');
